@@ -54,7 +54,7 @@ The Random Forest Classifier achieved strong validation accuracy and performed w
 ## 📁 Output
 
 Final predictions saved to:  
-`Loan_Prediction_Submission.csv`
+`loan_approval_prediction.py`
 
 ## 🧠 Skills Demonstrated
 
