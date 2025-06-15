@@ -63,6 +63,10 @@ Final predictions saved to:
 - Model evaluation and improvement
 - Business understanding of classification problems
 
+## 🔗 Project Thumbnail – Loan Approval Prediction 
+  (https://loan-approval-visualizer.lovable.app)
+A professional visual summary of the Loan Approval Prediction ML project built using Random Forest & Python.
+
 ## 🧑‍💻 Author
 
 **Chandrakanth Dahima**  
